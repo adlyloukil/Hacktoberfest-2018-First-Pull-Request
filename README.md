@@ -3,7 +3,7 @@
 Add your Name to this README file and Submit your first Pull Request for Hacktoberfest 2018!
 
 1. Adly Loukil
-2.
+2. John Ennis
 3.
 4.
 5.
