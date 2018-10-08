@@ -40,7 +40,7 @@ Add your Name to this README file and Submit your first Pull Request for Hacktob
 37. Prabhu Sharan Singh
 38. TrAnn3l
 39. Ana Letícia
-40.
+40. Sam Mansch
 41.
 42.
 43.
