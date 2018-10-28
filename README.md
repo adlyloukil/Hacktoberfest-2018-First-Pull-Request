@@ -100,4 +100,4 @@ Add your Name to this README.md file to Submit your first Pull Request for Hackt
 97. Mounika Smitha
 98. Keegan Lawley
 99. Marcelo da Silva
-100.Snehil Singh
+100.Snehil S
