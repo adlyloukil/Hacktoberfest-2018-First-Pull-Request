@@ -88,16 +88,16 @@ Add your Name to this README.md file to Submit your first Pull Request for Hackt
 85. swt02026
 86. elf11
 87. Ghous Ahmed
-88. Mannika Garg
-89.
-90.
-91.
-92.
-93.
-94.
-95.
-96.
-97.
-98.
-99.
-100.
+88. Omer Faruk
+89. Aditya Prajapati
+90. Grace!
+91. SemicolonExpected
+92. Victorpy
+93. Jimothy Sanderz
+94. Kishan King
+95. Lenny
+96. Prim AcNEO
+97. Mounika Smitha
+98. Keegan Lawley
+99. Marcelo da Silva
+100. Mannika Garg
